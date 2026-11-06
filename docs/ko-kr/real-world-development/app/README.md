@@ -3,7 +3,7 @@ slug: ko-kr/real-world-development/app
 title: "GitHub Copilot app"
 authors:
   - geektrainer
-lastUpdated: 2026-09-17
+lastUpdated: 2026-10-22
 ---
 
 [**GitHub Copilot app**](https://docs.github.com/copilot/concepts/agents/github-copilot-app)은 Copilot CLI를 기반으로 구축된 데스크톱 애플리케이션으로, 에이전트 기반 개발을 하나의 집중된 워크스페이스에서 수행할 수 있게 해 줍니다. 병렬 에이전트 세션, 전환 가능한 세션 모드, 공유 캔버스, GitHub 이슈 및 끌어오기 요청 기본 관리 기능을 제공합니다. 여기에는 끌어오기 요청의 리베이스, 검토 피드백, 지속적 통합(CI) 수정, 병합 과정을 관리하는 **Agent Merge**도 포함됩니다.
@@ -42,7 +42,7 @@ lastUpdated: 2026-09-17
 
 워크숍에 참여하기 전에 다음 항목을 준비했는지 확인합니다.
 
-- [ ] 활성 **Copilot Student, Pro, Pro+, Business, or Enterprise** 플랜이 있는 GitHub 계정
+- [ ] 활성 **Copilot Student, Pro, Pro+, Business 또는 Enterprise** 플랜이 있는 GitHub 계정
 - [ ] **macOS, Linux, or Windows**를 실행하는 컴퓨터
 - [ ] 컴퓨터에 [Git 설치][install-git]
 
@@ -53,7 +53,7 @@ lastUpdated: 2026-09-17
 > Copilot app은 codespace가 아니라 사용자의 컴퓨터에서 실행되므로, [레슨 0][ex0]에서는 앱을 설치하기 전에 Node.js를 설치하고 프로젝트 복사본을 만드는 방법을 안내합니다.
 
 > [!NOTE]
-> Copilot Business 또는 Copilot Enterprise를 사용하는 경우 앱을 사용하려면 관리자가 **Copilot CLI** 정책을 활성화해야 합니다.
+> Copilot Business 또는 Copilot Enterprise를 사용하는 경우 앱을 사용하려면 관리자가 **GitHub Copilot app** 정책을 활성화해야 합니다. 이는 Copilot CLI 정책과 별개입니다.
 
 ## 시작하기
 
